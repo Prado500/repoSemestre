@@ -1,0 +1,244 @@
+Base de datos para curso ML,,,,,,,,,,,,
+Nombre,edad,Sexo,Altura,peso,carro,Casa,Color cabello ,Signo,Colegio,Cedula,Nacionalidad,Fecha de nacimiento
+Fernando Pérez,50,M,,,,,Negro,,,,Colombiana,
+Patricia Rodríguez,25,F,1.55,55,Si,No,Castaño,Aries,La Merced,17.258.475,Colombiana,
+Fernando Ortega ,35,M,1.8,72,No,,Negro,Acuario,Camilo Torres,108.147.956,Colombiana,
+Radamel Falcao García Zarate,35,M,1.77,72,Si,Si,Negro,Piscis,,,Colombiana,10/02/86
+Duván Esteban Zapata Banguero,30,M,1.86,88,Si,Si,Negro,Aries,,,Colombiana,01/04/91
+Mariana Pajon Londoño,30,F,1.58,55,Si,Si,Castaño,Libra,,,Colombiana,10/10/91
+Nairo Alexander Quintana Rojas,31,M,1.67,58,No,Si,Negro,Acuario,,,Colombiana,1990/4/2
+Rigoberto Urán Urán,34,M,1.73,63,Si,Si,Negro,Acuario,,,Colombiana,26/01/1987
+Ana Cristina Sanabria Sánchez,31,F,1.56,51,,,Negro,Tauro,,,Colombiana,02/05/90
+Juan Guillermo Cuadrado Bello,33,M,1.79,72,Si,Si,Negro,,,,Colombiana,26/05/1988
+Mariana Pajon Londoño,30,F,1.58,55,Si,Si,Castaño,Libra,,,Colombiana,10/10/91
+Fernando Pérez,50,M,,,,,Negro,,,,Colombiana,
+Patricia Rodríguez,25,F,1.55,55,Si,No,Castaño,Aries,,17.258.475,Colombiana,
+Fernando Ortega,35,M,1.8,72,No,,Negro,Acuario,,108.147.956,Colombiana,
+Laura Sánchez,30,F,1.65,60,Si,Si,Rubio,Tauro,,1.234.567.890,Colombiana,1994-05-10
+Carlos López,45,M,1.75,80,No,Si,Negro,Géminis,,23.456.789,Colombiana,1979-03-22
+Ana Gómez,28,F,1.7,65,Si,No,Rojo,,Montealegre,21.789.456,Colombiana,1995-08-14
+Miguel Ramírez,32,M,1.68,70,Si,Si,Moreno,Leo,,19.456.123,Colombiana,1991-12-01
+Diana Martínez,26,F,1.6,58,No,No,Castaño,Piscis,,,Colombiana,1997-07-22
+Luis Fernández,40,M,1.78,85,,Si,Negro,Libra,San Pedro,15.369.258,Colombiana,1983-11-30
+Andrea Castro,23,F,1.63,54,Si,No,Rubio,Sagitario,Las Lomas,14.852.369,Colombiana,2000-04-25
+Javier Ruiz,37,M,1.72,76,No,,Castaño,Capricornio,Santa Clara,11.258.369,Colombiana,1986-09-17
+Lucía Morales,29,F,1.69,62,Si,Si,Moreno,Virgo,,10.147.258,Colombiana,1994-02-13
+Raúl Pérez,34,M,1.8,78,No,No,Negro,Acuario,,12.369.852,Colombiana,1989-06-05
+María Torres,31,F,1.57,56,Si,Si,Rojo,Aries,El Rosal,,Colombiana,1992-03-18
+Juan Vargas,27,M,1.75,75,,Si,Castaño,Cáncer,,9.258.147,Colombiana,1996-10-27
+Sofía Herrera,22,F,1.6,52,Si,No,Negro,Leo,La Milagrosa,18.369.147,Colombiana,2001-12-03
+Alejandro Medina,36,M,1.77,82,No,Si,Rubio,Tauro,San Lucas,8.369.258,Colombiana,1987-11-15
+Valeria Rojas,33,F,1.62,61,Si,Si,Moreno,Piscis,,7.147.369,Colombiana,1990-01-30
+Rodrigo Romero,41,M,1.73,79,Si,No,Castaño,Géminis,,6.258.147,Colombiana,1982-05-27
+Carolina Molina,24,F,1.65,57,Si,No,Rojo,Capricornio,La Ceiba,5.369.258,Colombiana,1999-04-18
+Adrián Suárez,38,M,1.82,84,,Si,Negro,Libra,San Andrés,4.258.369,Colombiana,1985-08-29
+Gabriela Ortiz,21,F,1.58,53,Si,No,Rubio,Sagitario,,3.147.258,Colombiana,2002-02-10
+Manuel Cruz,42,M,1.76,81,No,Si,Moreno,Leo,,2.369.147,Colombiana,1981-07-14
+Martina Aguirre,25,F,1.64,55,Si,Si,Castaño,La Floresta,,,Colombiana,1998-09-26
+Julian Mendoza,29,M,1.7,74,No,No,Negro,Escorpio,San Rafael,0.147.258,Colombiana,1994-03-01
+Fernanda Paredes,27,F,1.67,60,Si,No,Rubio,Cáncer,La Rivera,19.258.147,Colombiana,1996-12-22
+Santiago Navarro,35,M,1.75,77,No,Si,Castaño,Piscis,,18.369.258,Colombiana,1989-11-05
+Claudia Morales,31,F,1.68,59,Si,No,Negro,Libra,,17.147.369,Colombiana,1992-01-11
+Marcelo Fuentes,39,M,1.79,83,No,Si,Moreno,Virgo,La Paz,16.258.147,Colombiana,1984-04-29
+Camila Cárdenas,26,F,1.61,55,Si,No,Rubio,Capricornio,El Retiro,15.369.258,Colombiana,1997-09-15
+Nicolás León,28,M,1.74,72,No,Si,Negro,Tauro,,14.258.369,Colombiana,1995-06-18
+Paula Ríos,32,F,1.66,58,Si,No,,Géminis,La Sabana,13.147.258,Colombiana,1991-10-23
+Tomás Vargas,40,M,1.81,80,No,Si,Rojo,Leo,,12.369.147,Colombiana,1983-02-06
+Isabela Serrano,23,F,1.63,54,Si,No,Moreno,Acuario,San Agustín,11.258.369,Colombiana,2000-07-08
+Iván Herrera,34,M,1.77,79,No,Si,Castaño,Escorpio,San Miguel,10.147.258,Colombiana,1989-05-20
+Catalina Reyes,28,F,1.65,57,Si,No,Negro,Aries,,9.369.258,Colombiana,1995-08-02
+David Castro,31,M,1.78,81,,,Rojo,Virgo,,8.258.369,Colombiana,1992-03-17
+Natalia López,29,F,1.64,59,Si,No,Moreno,Sagitario,,7.147.258,Colombiana,1994-06-01
+Álvaro Silva,36,M,1.79,83,No,Si,Negro,Libra,,6.258.147,Colombiana,1987-11-11
+Emilia Rojas,24,F,1.62,56,Si,No,Castaño,Piscis,,5.369.258,Colombiana,1999-02-26
+Ricardo Guzmán,37,M,1.76,78,No,Si,Rubio,Cáncer,San Nicolás,4.258.369,Colombiana,1986-07-30
+Daniela Molina,33,F,1.67,61,Si,No,Moreno,Acuario,El Dorado,3.147.258,Colombiana,1990-10-09
+Sebastián Ortega,28,M,1.8,77,No,Si,Negro,Leo,La Colina,2.369.147,Colombiana,1995-04-05
+Victoria Torres,31,F,1.6,55,Si,No,Rojo,Virgo,,1.258.369,Colombiana,1992-01-19
+Lucas Martínez,40,M,1.78,82,No,Si,Castaño,Capricornio,,0.147.258,Colombiana,1983-03-12
+Mónica Jiménez,25,F,1.65,56,Si,No,Negro,Géminis,La Campiña,19.258.147,Colombiana,1998-07-29
+Pablo Ramírez,34,M,1.72,75,No,Si,Rubio,Tauro,San Pablo,18.147.369,Colombiana,1989-01-12
+Camila Ríos,29,F,1.64,59,Si,No,Negro,Piscis,,17.369.258,Colombiana,1994-11-03
+Martín Gómez,30,M,1.76,77,No,Si,Moreno,Aries,,16.147.258,Colombiana,1993-09-22
+Laura González,28,F,1.63,57,Si,No,Castaño,Sagitario,,15.258.369,Colombiana,1995-03-14
+Esteban Mejía,33,M,1.8,80,No,Si,Negro,Libra,,14.369.147,Colombiana,1990-05-08
+Luisa Mendoza,31,F,1.61,56,Si,No,Rubio,Capricornio,Los Cedros,13.258.369,Colombiana,1992-10-20
+Carlos Pérez,27,M,1.78,82,No,Si,Moreno,Géminis,La Esperanza,12.147.258,Colombiana,1996-07-25
+Adriana Gutiérrez,29,F,1.64,59,Si,No,Negro,Leo,San Antonio,11.369.258,Colombiana,1994-02-18
+Miguel Ortiz,35,M,1.77,78,No,Si,Rubio,Acuario,,10.258.147,Colombiana,1988-11-10
+Clara Rivera,34,F,1.66,61,Si,No,Castaño,Escorpio,,9.147.258,Colombiana,1989-03-15
+Luis Torres,40,M,1.81,84,No,Si,Negro,Aries,Los Almendros,8.258.369,Colombiana,1983-12-04
+Mariana Salazar,26,F,1.65,58,Si,No,Moreno,Capricornio,,7.369.258,Colombiana,1997-01-30
+Jorge Castro,32,M,1.79,81,No,Si,Rojo,Piscis,San Andrés,6.147.369,Colombiana,1991-04-16
+Sara Rojas,29,F,1.6,55,Si,No,Castaño,Tauro,La Paz,5.258.369,Colombiana,1994-08-28
+Andrés Cárdenas,38,M,1.75,79,No,Si,Negro,Géminis,,4.369.147,Colombiana,1985-06-13
+Paula Mendoza,31,F,1.63,60,Si,No,Rubio,Leo,,3.258.369,Colombiana,1992-12-01
+Felipe López,33,M,1.78,80,No,Si,Moreno,Escorpio,,2.147.258,Colombiana,1990-09-05
+Juliana Pérez,28,F,1.62,57,Si,No,Castaño,Aries,,1.369.258,Colombiana,1995-05-22
+Gabriel Ramírez,37,M,1.8,83,No,Si,Negro,Piscis,,0.258.147,Colombiana,1986-03-09
+Valentina Ruiz,25,F,1.64,59,Si,No,Rojo,Sagitario,San Marcos,19.369.258,Colombiana,1998-11-28
+Nicolás Serrano,30,M,1.77,82,No,Si,Castaño,Libra,San Rafael,18.147.369,Colombiana,1993-04-21
+Patricia Rodríguez,25,F,1.55,55,Si,No,Castaño,Aries,,17.258.475,Colombiana,1998-10-10
+Fernando Ortega,35,M,1.8,72,No,,Negro,Acuario,Camilo Torres,108.147.956,Colombiana,1989-02-14
+Javier Ruiz,37,M,1.72,76,No,,Castaño,Capricornio,Santa Clara,11.258.369,Colombiana,1986-09-17
+Lucía Morales,29,F,1.69,62,Si,Si,Moreno,Virgo,,10.147.258,Colombiana,1994-02-13
+Raúl Pérez,34,M,1.8,78,No,No,Negro,Acuario,,12.369.852,Colombiana,1989-06-05
+María Torres,31,F,1.57,56,Si,Si,Rojo,Aries,El Rosal,13.478.569,Colombiana,1992-03-18
+Juan Vargas,27,M,1.75,75,,Si,Castaño,Cáncer,,9.258.147,Colombiana,1996-10-27
+Sofía Herrera,22,F,1.6,52,Si,No,Negro,Leo,La Milagrosa,18.369.147,Colombiana,2001-12-03
+Alejandro Medina,36,M,1.77,82,No,Si,Rubio,Tauro,,8.369.258,Colombiana,1987-11-15
+Valeria Rojas,33,F,1.62,61,Si,Si,Moreno,Piscis,Los Almendros,7.147.369,Colombiana,1990-01-30
+Rodrigo Romero,41,M,1.73,79,Si,No,Castaño,Géminis,El Nogal,6.258.147,Colombiana,1982-05-27
+Carolina Molina,24,F,1.65,57,Si,No,Rojo,Capricornio,,5.369.258,Colombiana,1999-04-18
+Adrián Suárez,38,M,1.82,84,No,Si,Negro,Libra,,4.258.369,Colombiana,1985-08-29
+Gabriela Ortiz,21,F,1.58,53,Si,No,Rubio,Sagitario,,3.147.258,Colombiana,2002-02-10
+Manuel Cruz,42,M,1.76,81,No,Si,Moreno,Leo,,2.369.147,Colombiana,1981-07-14
+Martina Aguirre,25,F,1.64,55,Si,Si,Castaño,Aries,,1.258.369,Colombiana,1998-09-26
+Julian Mendoza,29,M,1.7,74,No,No,Negro,Escorpio,San Rafael,0.147.258,Colombiana,1994-03-01
+Fernanda Paredes,27,F,1.67,60,Si,No,Rubio,Cáncer,La Rivera,19.258.147,Colombiana,1996-12-22
+Santiago Navarro,35,M,1.75,77,No,Si,Castaño,Piscis,San Francisco,18.369.258,Colombiana,1989-11-05
+Claudia Morales,31,F,1.68,59,Si,No,Negro,Libra,,17.147.369,Colombiana,1992-01-11
+Marcelo Fuentes,39,M,1.79,83,No,Si,Moreno,Virgo,La Paz,16.258.147,Colombiana,1984-04-29
+Camila Cárdenas,26,F,1.61,55,Si,No,Rubio,Capricornio,,15.369.258,Colombiana,1997-09-15
+Nicolás León,28,M,1.74,72,No,Si,Negro,Tauro,La Candelaria,14.258.369,Colombiana,1995-06-18
+Paula Ríos,32,F,1.66,58,Si,No,Castaño,Géminis,,13.147.258,Colombiana,1991-10-23
+Tomás Vargas,40,M,1.81,80,No,Si,Rojo,Leo,,12.369.147,Colombiana,1983-02-06
+Isabela Serrano,23,F,1.63,54,Si,No,Moreno,Acuario,San Agustín,11.258.369,Colombiana,2000-07-08
+Iván Herrera,34,M,1.77,79,No,Si,Castaño,Escorpio,San Miguel,10.147.258,Colombiana,1989-05-20
+Catalina Reyes,28,F,1.65,57,Si,No,Negro,Aries,Los Olivos,9.369.258,Colombiana,1995-08-02
+David Castro,31,M,1.78,81,No,Si,Rojo,Virgo,,8.258.369,Colombiana,1992-03-17
+Natalia López,29,F,1.64,59,Si,No,Moreno,Sagitario,,7.147.258,Colombiana,1994-06-01
+Álvaro Silva,36,M,1.79,83,No,Si,Negro,Libra,,6.258.147,Colombiana,1987-11-11
+Emilia Rojas,24,F,1.62,56,Si,No,Castaño,Piscis,,5.369.258,Colombiana,1999-02-26
+Ricardo Guzmán,37,M,1.76,78,No,Si,Rubio,Cáncer,San Nicolás,4.258.369,Colombiana,1986-07-30
+Daniela Molina,33,F,1.67,61,Si,No,Moreno,Acuario,El Dorado,3.147.258,Colombiana,1990-10-09
+Sebastián Ortega,28,M,1.8,77,No,Si,Negro,Leo,,2.369.147,Colombiana,1995-04-05
+Victoria Torres,31,F,1.6,55,Si,No,Rojo,Virgo,Las Brisas,1.258.369,Colombiana,1992-01-19
+Lucas Martínez,40,M,1.78,82,No,Si,Castaño,Capricornio,,0.147.258,Colombiana,1983-03-12
+Mónica Jiménez,25,F,1.65,56,Si,No,Negro,Géminis,,19.258.147,Colombiana,1998-07-29
+Pablo Ramírez,34,M,1.72,75,No,Si,Rubio,Tauro,San Pablo,18.147.369,Colombiana,1989-01-12
+Camila Ríos,29,F,1.64,59,Si,No,Negro,Piscis,,17.369.258,Colombiana,1994-11-03
+Martín Gómez,30,M,1.76,77,No,Si,Moreno,Aries,,16.147.258,Colombiana,1993-09-22
+Laura González,28,F,1.63,57,Si,No,Castaño,Sagitario,Los Ángeles,15.258.369,Colombiana,1995-03-14
+Esteban Mejía,33,M,1.8,80,No,Si,Negro,Libra,La Primavera,14.369.147,Colombiana,1990-05-08
+Luisa Mendoza,31,F,1.61,56,Si,No,Rubio,Capricornio,Los Cedros,13.258.369,Colombiana,1992-10-20
+Carlos Pérez,27,M,1.78,82,No,Si,Moreno,Géminis,La Esperanza,12.147.258,Colombiana,1996-07-25
+Adriana Gutiérrez,29,F,1.64,59,Si,No,Negro,Leo,,11.369.258,Colombiana,1994-02-18
+Miguel Ortiz,35,M,1.77,78,No,Si,Rubio,Acuario,,10.258.147,Colombiana,1988-11-10
+Clara Rivera,34,F,1.66,61,Si,No,Castaño,Escorpio,Los Laureles,9.147.258,Colombiana,1989-03-15
+Luis Torres,40,M,1.81,84,No,Si,Negro,Aries,Los Almendros,8.258.369,Colombiana,1983-12-04
+Mariana Salazar,26,F,1.65,58,Si,No,Moreno,Capricornio,,7.369.258,Colombiana,1997-01-30
+Jorge Castro,32,M,1.79,81,No,Si,Rojo,Piscis,,6.147.369,Colombiana,1991-04-16
+Sara Rojas,29,F,1.6,55,Si,No,Castaño,Tauro,,5.258.369,Colombiana,1994-08-28
+Andrés Cárdenas,38,M,1.75,79,No,Si,Negro,Géminis,,4.369.147,Colombiana,1985-06-13
+Paula Mendoza,31,F,1.63,60,Si,No,Rubio,Leo,Los Robles,3.258.369,Colombiana,1992-12-01
+Felipe López,33,M,1.78,80,No,Si,Moreno,Escorpio,San Juan,2.147.258,Colombiana,1990-09-05
+Juliana Pérez,28,F,1.62,57,Si,No,Castaño,Aries,La Colina,1.369.258,Colombiana,1995-05-22
+Gabriel Ramírez,37,M,1.8,83,No,Si,Negro,Piscis,,0.258.147,Colombiana,1986-03-09
+Valentina Ruiz,25,F,1.64,59,Si,No,Rojo,Sagitario,,19.369.258,Colombiana,1998-11-28
+Nicolás Serrano,30,M,1.77,82,No,Si,Castaño,Libra,,18.147.369,Colombiana,1993-04-21
+Patricia Rodríguez,25,F,1.55,55,Si,No,Castaño,Aries,La Merced,17.258.475,Colombiana,1998-10-10
+Fernando Ortega,35,M,1.8,72,No,,Negro,Acuario,Camilo Torres,108.147.956,Colombiana,1989-02-14
+Javier Ruiz,37,M,1.72,76,No,,Castaño,Capricornio,Santa Clara,11.258.369,Colombiana,1986-09-17
+Lucía Morales,29,F,1.69,62,Si,Si,Moreno,Virgo,,10.147.258,Colombiana,1994-02-13
+Raúl Pérez,34,M,1.8,78,No,No,Negro,Acuario,San Mateo,12.369.852,Colombiana,1989-06-05
+María Torres,31,F,1.57,56,Si,Si,Rojo,Aries,El Rosal,13.478.569,Colombiana,1992-03-18
+Juan Vargas,27,M,1.75,75,,Si,Castaño,Cáncer,San José,9.258.147,Colombiana,1996-10-27
+Sofía Herrera,22,F,1.6,52,Si,No,Negro,Leo,La Milagrosa,18.369.147,Colombiana,2001-12-03
+Alejandro Medina,36,M,1.77,82,No,Si,Rubio,Tauro,San Lucas,8.369.258,Colombiana,1987-11-15
+Valeria Rojas,33,F,1.62,61,Si,Si,Moreno,Piscis,,7.147.369,Colombiana,1990-01-30
+Rodrigo Romero,41,M,1.73,79,Si,No,Castaño,Géminis,,6.258.147,Colombiana,1982-05-27
+Carolina Molina,24,F,1.65,57,Si,No,Rojo,Capricornio,,5.369.258,Colombiana,1999-04-18
+Adrián Suárez,38,M,1.82,84,No,Si,Negro,Libra,,4.258.369,Colombiana,1985-08-29
+Gabriela Ortiz,21,F,1.58,53,Si,No,Rubio,Sagitario,Los Naranjos,3.147.258,Colombiana,2002-02-10
+Manuel Cruz,42,M,1.76,81,No,Si,Moreno,Leo,Las Acacias,2.369.147,Colombiana,1981-07-14
+Martina Aguirre,25,F,1.64,55,Si,Si,Castaño,Aries,,1.258.369,Colombiana,1998-09-26
+Julian Mendoza,29,M,1.7,74,No,No,Negro,Escorpio,San Rafael,0.147.258,Colombiana,1994-03-01
+Fernanda Paredes,27,F,1.67,60,Si,No,Rubio,Cáncer,,19.258.147,Colombiana,1996-12-22
+Santiago Navarro,35,M,1.75,77,No,Si,Castaño,Piscis,,18.369.258,Colombiana,1989-11-05
+Claudia Morales,31,F,1.68,59,Si,No,Negro,Libra,Las Flores,17.147.369,Colombiana,1992-01-11
+Marcelo Fuentes,39,M,1.79,83,No,Si,Moreno,Virgo,,16.258.147,Colombiana,1984-04-29
+Camila Cárdenas,26,F,1.61,55,Si,No,Rubio,Capricornio,,15.369.258,Colombiana,1997-09-15
+Nicolás León,28,M,1.74,72,No,Si,Negro,Tauro,La Candelaria,14.258.369,Colombiana,1995-06-18
+Paula Ríos,32,F,1.66,58,Si,No,Castaño,Géminis,La Sabana,13.147.258,Colombiana,1991-10-23
+Tomás Vargas,40,M,1.81,80,No,Si,Rojo,Leo,,12.369.147,Colombiana,1983-02-06
+Isabela Serrano,23,F,1.63,54,Si,No,Moreno,Acuario,San Agustín,11.258.369,Colombiana,2000-07-08
+Iván Herrera,34,M,1.77,79,No,Si,Castaño,Escorpio,,10.147.258,Colombiana,1989-05-20
+Catalina Reyes,28,F,1.65,57,Si,No,Negro,Aries,,9.369.258,Colombiana,1995-08-02
+David Castro,31,M,1.78,81,No,Si,Rojo,Virgo,San Joaquín,8.258.369,Colombiana,1992-03-17
+Natalia López,29,F,1.64,59,Si,No,Moreno,Sagitario,La Alameda,7.147.258,Colombiana,1994-06-01
+Álvaro Silva,36,M,1.79,83,No,Si,Negro,Libra,El Centro,6.258.147,Colombiana,1987-11-11
+Emilia Rojas,24,F,1.62,56,Si,No,Castaño,Piscis,Los Álamos,5.369.258,Colombiana,1999-02-26
+Ricardo Guzmán,37,M,1.76,78,No,Si,Rubio,Cáncer,San Nicolás,4.258.369,Colombiana,1986-07-30
+Daniela Molina,33,F,,61,Si,No,Moreno,Acuario,El Dorado,3.147.258,Colombiana,1990-10-09
+Sebastián Ortega,28,M,1.8,77,No,Si,Negro,Leo,La Colina,2.369.147,Colombiana,1995-04-05
+Victoria Torres,31,F,1.6,55,Si,No,Rojo,Virgo,Las Brisas,1.258.369,Colombiana,1992-01-19
+Lucas Martínez,40,M,1.78,82,No,Si,Castaño,Capricornio,,0.147.258,Colombiana,1983-03-12
+Mónica Jiménez,25,F,1.65,56,Si,No,Negro,Géminis,,19.258.147,Colombiana,1998-07-29
+Pablo Ramírez,34,M,1.72,75,No,Si,,Tauro,,18.147.369,Colombiana,1989-01-12
+Camila Ríos,29,F,1.64,59,Si,No,Negro,Piscis,,17.369.258,Colombiana,1994-11-03
+Martín Gómez,30,M,1.76,77,No,Si,Moreno,Aries,,,Colombiana,1993-09-22
+Laura González,28,F,1.63,57,Si,No,Castaño,Sagitario,Los Ángeles,15.258.369,Colombiana,1995-03-14
+Esteban Mejía,33,M,1.8,80,No,Si,Negro,Libra,La Primavera,14.369.147,Colombiana,1990-05-08
+Luisa Mendoza,31,F,1.61,56,Si,No,Rubio,Capricornio,Los Cedros,13.258.369,Colombiana,1992-10-20
+Carlos Pérez,27,M,1.78,82,No,Si,Moreno,Géminis,,12.147.258,Colombiana,1996-07-25
+Adriana Gutiérrez,29,F,1.64,59,Si,No,Negro,Leo,,11.369.258,Colombiana,1994-02-18
+Miguel Ortiz,35,M,1.77,78,No,Si,Rubio,Acuario,San José,10.258.147,Colombiana,1988-11-10
+Clara Rivera,34,F,1.66,61,Si,No,Castaño,Escorpio,Los Laureles,9.147.258,Colombiana,1989-03-15
+Luis Torres,40,M,1.81,84,No,Si,Negro,Aries,,8.258.369,Colombiana,1983-12-04
+Mariana Salazar,26,F,1.65,58,Si,No,Moreno,Capricornio,San Fernando,7.369.258,Colombiana,1997-01-30
+Jorge Castro,32,M,1.79,81,No,Si,Rojo,Piscis,,6.147.369,Colombiana,1991-04-16
+Sara Rojas,29,F,1.6,55,Si,No,Castaño,Tauro,La Paz,5.258.369,Colombiana,1994-08-28
+Andrés Cárdenas,38,M,1.75,79,No,Si,Negro,Géminis,El Olivo,4.369.147,Colombiana,1985-06-13
+Paula Mendoza,31,F,1.63,60,Si,No,Rubio,Leo,Los Robles,3.258.369,Colombiana,1992-12-01
+Felipe López,33,M,1.78,80,No,Si,Moreno,Escorpio,San Juan,2.147.258,Colombiana,1990-09-05
+Juliana Pérez,28,F,1.62,57,Si,No,Castaño,Aries,,1.369.258,Colombiana,1995-05-22
+Gabriel Ramírez,37,M,1.8,83,No,Si,Negro,Piscis,La Rivera,0.258.147,Colombiana,1986-03-09
+Valentina Ruiz,25,F,1.64,59,Si,No,Rojo,Sagitario,,19.369.258,Colombiana,1998-11-28
+Nicolás Serrano,30,M,1.77,82,No,Si,Castaño,Libra,San Rafael,18.147.369,Colombiana,1993-04-21
+Patricia Rodríguez,25,F,1.55,55,Si,No,Castaño,Aries,La Merced,17.258.475,Colombiana,1998-10-10
+Fernando Ortega,35,M,1.8,72,No,,Negro,Acuario,Camilo Torres,108.147.956,Colombiana,1989-02-14
+Javier Ruiz,37,M,1.72,76,No,,Castaño,Capricornio,Santa Clara,11.258.369,Colombiana,1986-09-17
+Lucía Morales,29,F,1.69,62,Si,,,,,10.147.258,Colombiana,1994-02-13
+Raúl Pérez,34,M,1.8,78,No,No,Negro,Acuario,,12.369.852,Colombiana,1989-06-05
+María Torres,31,F,1.57,56,Si,Si,Rojo,Aries,El Rosal,13.478.569,Colombiana,1992-03-18
+Juan Vargas,27,M,1.75,75,,Si,Castaño,Cáncer,San José,9.258.147,Colombiana,1996-10-27
+Sofía Herrera,22,F,1.6,52,Si,No,Negro,Leo,La Milagrosa,18.369.147,Colombiana,2001-12-03
+Alejandro Medina,36,M,1.77,82,No,Si,Rubio,Tauro,San Lucas,8.369.258,Colombiana,1987-11-15
+Valeria Rojas,33,F,1.62,61,Si,Si,Moreno,Piscis,Los Almendros,7.147.369,Colombiana,1990-01-30
+Rodrigo Romero,41,M,1.73,79,Si,No,Castaño,Géminis,,6.258.147,Colombiana,1982-05-27
+Carolina Molina,24,F,1.65,57,,No,Rojo,Capricornio,,5.369.258,Colombiana,1999-04-18
+Adrián Suárez,38,M,1.82,84,No,Si,Negro,Libra,,4.258.369,Colombiana,1985-08-29
+Gabriela Ortiz,21,F,1.58,53,Si,No,Rubio,Sagitario,,3.147.258,Colombiana,2002-02-10
+Manuel Cruz,42,M,1.76,81,No,Si,Moreno,Leo,Las Acacias,2.369.147,Colombiana,1981-07-14
+Martina Aguirre,25,F,1.64,55,Si,Si,Castaño,Aries,La Floresta,1.258.369,Colombiana,1998-09-26
+Julian Mendoza,29,M,1.7,74,No,No,Negro,Escorpio,San Rafael,0.147.258,Colombiana,1994-03-01
+Fernanda Paredes,27,F,1.67,60,Si,No,Rubio,Cáncer,,19.258.147,Colombiana,1996-12-22
+Santiago Navarro,35,M,1.75,77,No,Si,Castaño,Piscis,,18.369.258,Colombiana,1989-11-05
+Claudia Morales,31,F,1.68,59,Si,No,Negro,Libra,,17.147.369,Colombiana,1992-01-11
+Marcelo Fuentes,39,M,1.79,83,No,Si,Moreno,Virgo,La Paz,16.258.147,Colombiana,1984-04-29
+Camila Cárdenas,26,F,1.61,55,Si,No,Rubio,Capricornio,El Retiro,15.369.258,Colombiana,1997-09-15
+Nicolás León,28,M,1.74,72,No,Si,Negro,Tauro,La Candelaria,14.258.369,Colombiana,1995-06-18
+Paula Ríos,32,F,1.66,58,Si,No,Castaño,,,13.147.258,Colombiana,1991-10-23
+Tomás Vargas,40,M,1.81,80,No,Si,Rojo,Leo,,12.369.147,Colombiana,1983-02-06
+Isabela Serrano,23,F,1.63,54,Si,No,Moreno,Acuario,San Agustín,11.258.369,Colombiana,2000-07-08
+Iván Herrera,34,M,1.77,79,No,Si,Castaño,Escorpio,,10.147.258,Colombiana,1989-05-20
+Catalina Reyes,28,F,1.65,57,Si,No,Negro,Aries,Los Olivos,9.369.258,Colombiana,1995-08-02
+David Castro,31,M,1.78,81,No,Si,Rojo,Virgo,San Joaquín,8.258.369,Colombiana,1992-03-17
+Natalia López,29,F,1.64,59,Si,No,Moreno,Sagitario,La Alameda,7.147.258,Colombiana,1994-06-01
+Álvaro Silva,36,M,1.79,83,No,Si,Negro,Libra,,6.258.147,Colombiana,1987-11-11
+Emilia Rojas,24,F,1.62,56,Si,No,Castaño,Piscis,,5.369.258,Colombiana,1999-02-26
+Ricardo Guzmán,37,M,1.76,78,No,Si,,Cáncer,San Nicolás,4.258.369,Colombiana,1986-07-30
+Daniela Molina,33,F,1.67,61,Si,No,Moreno,Acuario,,3.147.258,Colombiana,1990-10-09
+Sebastián Ortega,28,M,1.8,77,No,Si,Negro,Leo,La Colina,2.369.147,Colombiana,1995-04-05
+Victoria Torres,31,F,1.6,55,Si,No,Rojo,Virgo,,1.258.369,Colombiana,1992-01-19
+Lucas Martínez,40,M,1.78,82,No,Si,Castaño,Capricornio,,0.147.258,Colombiana,1983-03-12
+Mónica Jiménez,25,F,1.65,56,Si,No,Negro,Géminis,La Campiña,19.258.147,Colombiana,
+Pablo Ramírez,34,M,1.72,75,No,Si,Rubio,Tauro,,18.147.369,Colombiana,1989-01-12
+Camila Ríos,29,F,1.64,59,Si,No,Negro,Piscis,,17.369.258,Colombiana,1994-11-03
+Martín Gómez,30,M,1.76,77,No,Si,Moreno,Aries,,16.147.258,Colombiana,1993-09-22
+Laura González,28,F,1.63,57,Si,No,Castaño,Sagitario,Los Ángeles,15.258.369,Colombiana,1995-03-14
+Esteban Mejía,33,M,1.8,80,No,Si,Negro,Libra,La Primavera,14.369.147,Colombiana,1990-05-08
+Luisa Mendoza,31,F,1.61,56,Si,No,Rubio,Capricornio,,13.258.369,Colombiana,1992-10-20
+Carlos Pérez,27,M,1.78,82,No,Si,Moreno,Géminis,La Esperanza,12.147.258,Colombiana,1996-07-25
+Adriana Gutiérrez,29,F,1.64,59,Si,No,Negro,Leo,,11.369.258,Colombiana,1994-02-18
