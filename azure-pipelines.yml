@@ -1,0 +1,60 @@
+# azure-pipelines.yml
+trigger:
+- main  # Se ejecuta cuando haces push a main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  imageName: 'tu-app-python'  # Cambia este nombre si quieres
+
+steps:
+# Paso 1: Descargar el código
+- checkout: self
+
+# Paso 2: Construir la imagen Docker
+- task: Docker@2
+  displayName: 'Build Docker Image'
+  inputs:
+    command: 'build'
+    Dockerfile: '**/Dockerfile'  # Encuentra automáticamente tu Dockerfile en raíz
+    tags: |
+      latest
+      $(Build.BuildId)
+    arguments: '--no-cache'  # Opcional: fuerza rebuild limpio
+
+# Paso 3: (OPCIONAL) Ejecutar tests dentro del contenedor
+- script: |
+    echo "Si tienes tests, los ejecutarías aquí"
+    # Ejemplo para Python:
+    # docker run --rm tu-app-python:$(Build.BuildId) python -m pytest
+  displayName: 'Run Tests'
+  condition: always()  # Se ejecuta aunque el build falle
+
+# Paso 4: Verificar que el contenedor puede iniciar
+- script: |
+    echo "Probando que el contenedor inicia correctamente..."
+    docker run -d --name test-container --rm tu-app-python:$(Build.BuildId)
+    sleep 10
+    docker ps | grep test-container
+    docker stop test-container
+  displayName: 'Test Container Startup'
+  condition: succeeded()
+
+# Paso 5: Usar docker-compose (si quieres probar servicios múltiples)
+- script: |
+    echo "Levantando servicios con docker-compose..."
+    docker-compose up -d
+    sleep 15
+    docker-compose ps
+    docker-compose down
+  displayName: 'Test with Docker Compose'
+  condition: succeeded()
+
+# Paso 6: Resultado final
+- script: |
+    echo "🎉 ¡Pipeline ejecutado exitosamente!"
+    echo "📦 Build ID: $(Build.BuildId)"
+    echo "🐳 Imagen: $(imageName):$(Build.BuildId)"
+    echo "✅ Dockerfile encontrado y construido correctamente"
+  displayName: 'Pipeline Success'
