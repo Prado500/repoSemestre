@@ -17,7 +17,7 @@ steps:
   displayName: 'Build Docker Image'
   inputs:
     command: 'build'
-    Dockerfile: '**/Dockerfile'  # Encuentra automáticamente tu Dockerfile en raíz
+    Dockerfile: 'Dockerfile'  # Encuentra automáticamente tu Dockerfile en raíz
     tags: |
       latest
       $(Build.BuildId)
